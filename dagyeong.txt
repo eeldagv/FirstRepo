@@ -1,2 +1,3 @@
 position: hitter (Outfielder / CF)
+B/T: L/R
 back number: 51
