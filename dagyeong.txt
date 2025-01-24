@@ -1,3 +1,4 @@
 position: hitter (Outfielder / CF)
 B/T: L/R
 back number: 51
+AVG: 0.340
